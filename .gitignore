@@ -1,0 +1,5 @@
+/Test/__pycache__/*.pyc
+/Config/__pycache__/*.pyc
+/Pages/__pycache__/*.pyc
+/Test_YT/__pycache__/*.pyc
+/__pycache__/*.pyc
