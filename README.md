@@ -46,9 +46,3 @@ The project is currently **in progress**. While the basic structure is in place,
 - Python 3.x
 - Pytest
 - Selenium/WebDriver (for web testing)
-
-## Running the Tests
-
-1. Clone the repository:
-   ```bash
-   git clone <repo_url>
